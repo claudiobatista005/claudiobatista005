@@ -1,4 +1,4 @@
-### Olá! Sou Claudio Batista 🙋‍♂️
+## Olá! Sou Claudio Batista 🙋‍♂️
 
 ## Tecnologias que utilizo e perfil no linkedin!
 
