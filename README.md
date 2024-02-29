@@ -1,7 +1,7 @@
 ### Olá! Sou Claudio Batista 🙋‍♂️
 
 # Minhas habilidades e interesses em tecnologia
-Mais detalhes estão no meu Currículo Lattes e Linkedin!!
+- Mais detalhes estão no meu Currículo Lattes e Linkedin!!
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Your_Link_Here)
 [![R](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=r&logoColor=white)](Your_Link_Here)
