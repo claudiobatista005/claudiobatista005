@@ -5,5 +5,5 @@
  - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
  - [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
  - [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
- - 🔬 Academic research
+ - [![Academic Research](https://img.shields.io/badge/Academic%20Research-Blue?style=for-the-badge&logo=data:image/png;base64,INSERT_BASE64_CODE)](Your_Link_Here)
  - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-claudio-dutra-batista-11a01224a/)
